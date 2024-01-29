@@ -7,10 +7,10 @@ var dateDiffInDays = function (date1, date2) {
 	}else if(date2-date1){
 		return -1;
 	}else{
-		c
+		 return Math.floor(daysDifference);
 	}
 
-    return Math.floor(daysDifferene);
+   
 };
 
 // // Do not change the code below.
